@@ -26,12 +26,12 @@ Filtered numeric columns for heatmap generation
 
 Insights Extracted
 
-# Dataset Link:
-https://www.kaggle.com/datasets/ramakrushnamohapatra/loan-application-dataset
-https://www.kaggle.com/code/ramakrushnamohapatra/loan-data-analysis-credit-eda
-
 Income levels and loan default correlation
 
 Credit type and contract type trends
 
 Family size, number of children, and their influence on loan repayment
+
+# Dataset Link:
+https://www.kaggle.com/datasets/ramakrushnamohapatra/loan-application-dataset
+https://www.kaggle.com/code/ramakrushnamohapatra/loan-data-analysis-credit-eda
