@@ -1,5 +1,5 @@
 # Loan-DataAnalysis
-This project explores and analyzes data from the Home Credit Default Risk dataset to understand patterns, correlations, and potential risk factors associated with loan defaults. The goal is to provide actionable insights for financial institutions to assess client risk profiles effectively.
+This project explores and analyzes data from a dataset to understand patterns, correlations, and potential risk factors associated with loan defaults. The goal is to provide actionable insights for financial institutions to assess client risk profiles effectively.
 
 # Key Tasks Performed
 Data Loading and Cleaning
@@ -25,6 +25,10 @@ Identified features most correlated with default risk
 Filtered numeric columns for heatmap generation
 
 Insights Extracted
+
+# Dataset Link:
+https://www.kaggle.com/datasets/ramakrushnamohapatra/loan-application-dataset
+https://www.kaggle.com/code/ramakrushnamohapatra/loan-data-analysis-credit-eda
 
 Income levels and loan default correlation
 
